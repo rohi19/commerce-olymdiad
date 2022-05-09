@@ -1,0 +1,241 @@
+body {
+	height: 100%;
+	width: 100%;
+	overflow: auto;
+	margin: 0%;
+	box-sizing: border-box;
+	font-family: "Montserrat", sans-serif;
+	font-family: "Poppins", sans-serif;
+}
+.logoimage {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: center;
+}
+img {
+	height: 260px;
+	width: 587px;
+}
+.textarea1 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 100%;
+	align-items: center;
+	font-size: 20px;
+}
+
+.kid {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: flex-start;
+}
+.kidimg {
+	height: 630px;
+	width: 450px;
+}
+.Scholarship {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+	font-size: 20px;
+}
+.mob {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	border-radius: 1px;
+	margin-top: 40px;
+
+}
+.mobnum {
+	height: 24px;
+}
+.otp {
+	color: white;
+	background-color: red;
+	height: 30px;
+	font-weight: bold;
+}
+.benefit {
+	margin-top: 40px;
+	margin-left: 210px;
+	display: flex;
+	flex-direction: column;
+	justify-content:flex-start;
+	align-items:flex-start;
+}
+h1{
+	color: #4ecaf4;
+	font-size:  50px;
+text-decoration: underline;
+text-decoration-thickness: 2px;
+font-weight: 600;
+text-decoration-color: red;
+}
+ul{
+	font-size: 25px;
+}
+li{
+	font-size: 19px;
+}
+
+.margin- {
+	margin-top: 50px;
+}
+
+.regis {
+	
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	justify-items: center;
+	
+
+}
+.regis-btn {
+	color: white;
+	height: 30px;
+	font-size: larger;
+	background-color: red;
+	
+	margin-top: 60px;
+	font-weight: bold;
+}
+.abtAPT {
+	margin-top: 40px;
+	margin-left: 210px;
+	display: flex;
+	flex-direction:row;
+	justify-content:flex-start;
+	
+}
+.p-abtAPT {
+	font-size: 50px;
+	font-weight: 600;
+}
+.p2-abtAPT{
+	margin-left: 210px;
+	margin-right: 230px;
+	display: flex;
+	flex-direction:row;
+	justify-content:flex-start;
+	justify-items: center;
+}
+.styl-p-abtAPT {
+	font-size: 20px;
+	font-weight: 500;
+}
+.EEE{
+	display: flex;
+	flex-direction: row;
+	justify-items: center;
+	justify-content:space-around;
+	margin-right: 350px;
+	margin-left: 210px;
+}
+.stylEEE{
+	font-size: 25px;
+	color: #4ecaf4;
+	font-weight: 600;
+}
+.EEElist {
+	list-style: none;
+	font-size:16px ;
+	font-weight: 550;
+}
+.examfee {
+	margin-left: 340px;
+	margin-top: 50px;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	align-items:flex-start;
+}
+.marginBTWclm {
+	margin-top: 50px;
+}
+.clsfre {
+	margin-left: 340px;
+	margin-top: 100px;
+display: flex;
+flex-direction:column;
+align-content:flex-start;
+align-items:flex-start;
+
+}
+.stylfre {
+	color: #4ecaf4;
+	font-size: 50px;
+	font-weight: 600;
+	font-weight: bold;
+}
+.comrcbold {
+	font-weight: bold;
+}
+.freedmimgs {
+	display: flex;
+	flex-direction: row;
+	justify-content:space-around;
+	justify-items: center;
+	margin-top: 60px;
+	margin-left: 340px;
+	margin-right: 350px;
+	
+}
+.free1 {
+	height: 100px;
+	width: 175px;
+}
+.free2 {
+	height: 100px;
+	width: 53px;
+}
+.free3 {
+	height: 100px;
+	width: 88px;
+}
+.livecls {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	align-content: flex-start;
+}
+.dont {
+	display: flex;
+	flex-direction: row;
+	justify-content:flex-start;
+	justify-items: center;
+	margin-top: 60px;
+	margin-left: 340px;
+	
+}
+.dont-txt{
+	color: #4ecaf4;
+	font-size: 50px;
+	font-weight: 600;
+	font-weight: bold;
+}
+.text-dont {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	align-content: flex-start;
+	margin-left: 340px;
+}
+.Institute{
+	font-size: 16px;
+	font-weight: 700;
+}
+.dont-list{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	justify-items: flex-start;
+	margin-left: 340px;
+	margin-top: 30px;
+}
